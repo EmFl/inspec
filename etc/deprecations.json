@@ -5,6 +5,9 @@
     "attrs_value_replaces_default": {
       "action": "ignore",
       "prefix": "The 'default' option for attributes is being replaced by 'value' - please use it instead."
+    },
+    "filesystem_property_size": {
+      "action": "ignore"
     }
   }
 }
